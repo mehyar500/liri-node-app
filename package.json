@@ -19,6 +19,9 @@
   "dependencies": {
     "node-spotify-api": "^1.0.6",
     "request": "^2.81.0",
-    "twitter": "^1.7.1"
-  }
+    "twit": "^2.2.9",
+    "twitter": "^1.7.1",
+    "user-stream": "0.0.8"
+  },
+  "devDependencies": {}
 }
